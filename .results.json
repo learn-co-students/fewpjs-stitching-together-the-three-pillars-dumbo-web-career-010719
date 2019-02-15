@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2019-02-15T21:39:03.891Z",
+    "end": "2019-02-15T21:39:04.515Z",
+    "duration": 624
+  },
+  "tests": [
+    {
+      "title": "includes 'hello'",
+      "fullTitle": "index.html includes 'hello'",
+      "duration": 6,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "includes div",
+      "fullTitle": "index.html includes div",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "exists",
+      "fullTitle": "index.js exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "includes 'hello'",
+      "fullTitle": "index.html includes 'hello'",
+      "duration": 6,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "includes div",
+      "fullTitle": "index.html includes div",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "exists",
+      "fullTitle": "index.js exists",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
